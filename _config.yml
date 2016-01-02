@@ -1,6 +1,6 @@
 name: jhgjhg
 favicon: null
-layout_spectrum: 0.717335098888725
+layout_spectrum: 0.23568
 typography_spectrum: 0.06421115924604237
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#282425'
+    - '#00c4f0'
+    - '#000000'
+    - '#007fff'
+    - '#00aaaa'
   brandStrength: 0.4907902895938605
   lightness: 0.10829424858093262
   saturation: 0.9497267273254693
